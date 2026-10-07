@@ -10,8 +10,6 @@ links:
     url: "https://github.com/stephenturner"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/turnersd/"
-  - label: Email
-    url: "/p/contact"
 ---
 
 I'm a research scientist at [Example University](https://example.edu/) studying the impact of treats and pets on feline well-being and life satisfaction. Replace this paragraph with two or three sentences about what you do.
