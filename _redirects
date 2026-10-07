@@ -1,0 +1,21 @@
+# Netlify redirects. Format: from  to  status. A trailing ! forces the rule even if a file exists.
+
+# Keep build files and directory indexes out of the public site.
+/Makefile        /  301!
+/site.yaml       /  301!
+/template.html   /  301!
+/README.md       /  301!
+/CLAUDE.md       /  301!
+/CLAUDE.html     /  301!
+/AGENTS.md       /  301!
+/AGENTS.html     /  301!
+/p/              /  301!
+/files/          /  301!
+
+# Short paths to internal pages.
+/contact         /p/contact.html
+/about           /p/about.html
+
+# Short vanity paths to external URLs.
+/github          https://github.com/stephenturner
+/linkedin        https://www.linkedin.com/in/turnersd/
