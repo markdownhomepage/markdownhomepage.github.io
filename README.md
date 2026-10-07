@@ -1,8 +1,8 @@
 # A minimal personal website
 
-A small static site you can fork and make your own. Pages are written in Markdown and converted to HTML with [pandoc](https://pandoc.org/). There is no JavaScript framework, no build pipeline beyond a Makefile, and the whole thing is about a dozen files. It has a centered homepage with a portrait and link buttons, light and dark mode, social-preview and search metadata, a generated sitemap, and a contact form that works on Netlify without any server code.
+TL;DR: edit a few markdown files and run `make`. That's it. It is the setup behind [stephenturner.us](https://stephenturner.us).
 
-It is the setup behind [stephenturner.us](https://stephenturner.us).
+A small static site you can fork and make your own. Pages are written in Markdown and converted to HTML with [pandoc](https://pandoc.org/). There is no JavaScript framework, no build pipeline beyond a Makefile, and the whole thing is about a dozen files less than 100kb. It has a centered homepage with a portrait and link buttons, light and dark mode, social-preview and search metadata, a generated sitemap, and a contact form that works on Netlify without any server code.
 
 ## Quick start
 
